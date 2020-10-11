@@ -1,0 +1,24 @@
+{
+  "name": "js-practice-excel",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkeksz/js-practice-excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Vladislav Mozharov <mrkeksz@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkeksz/js-practice-excel/issues"
+  },
+  "homepage": "https://github.com/mkeksz/js-practice-excel#readme"
+}
